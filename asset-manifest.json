@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Educacademytest/static/css/main.1c74c01e.css",
+    "main.js": "/Educacademytest/static/js/main.34b4500c.js",
+    "static/media/image1.jpg": "/Educacademytest/static/media/image1.1ad6525e2c1059568bb6.jpg",
+    "index.html": "/Educacademytest/index.html",
+    "main.1c74c01e.css.map": "/Educacademytest/static/css/main.1c74c01e.css.map",
+    "main.34b4500c.js.map": "/Educacademytest/static/js/main.34b4500c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c74c01e.css",
+    "static/js/main.34b4500c.js"
+  ]
+}
